@@ -60,12 +60,10 @@ Component libraries | Design systems | Micro-frontends | Accessibility | Animati
 ## 🔧 Featured Projects  
 
 ### 📌 SuprForm
-Dynamic form engine designed for scalable form architectures
-👉 _Open-source maintainer_
+Dynamic form engine designed for scalable form architectures 👉 _Open-source maintainer_
 
 ### 📌 Vive Editor
-React rich text editor project focused on performance + flexibility  
-👉 _Open-source maintainer_
+React rich text editor project focused on performance + flexibility  👉 _Open-source maintainer_
 
 ---
 
