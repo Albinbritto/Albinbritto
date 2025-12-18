@@ -29,7 +29,7 @@ Engineer at **RELX** with **7+ years** of experience building scalable, high-per
 ## ⚙️ Tech Stack & Skills  
 
 ### **Languages & Frameworks**
-React | JavaScript | TypeScript | Next.js | HTML | CSS | TailwindCSS  
+React | JavaScript | TypeScript | HTML | CSS | TailwindCSS  
 
 ### **State Management**
 Zustand | Redux | Mobx | Context API  
@@ -85,7 +85,7 @@ React rich text editor project focused on performance + flexibility  👉 _Open-
 ### ✨ Final Note
 
 I love connecting with engineers, innovators, and creators.  
-If you're working on something interesting in **frontend, DX, forms, editors, or GenAI — let's talk!** 😄
+If you're working on something interesting in **frontend, forms, editors, or GenAI — let's talk!** 😄
 
 ---
 Made with ❤️ by Albin Britto
