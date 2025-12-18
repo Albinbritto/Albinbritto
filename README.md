@@ -40,11 +40,9 @@ Component libraries | Design systems | Micro-frontends | Accessibility | Animati
 ### **Core Strengths**
 - UI/UX engineering  
 - Performance optimization  
-- Architecture + code quality  
-- Testing: Jest | RTL  
+- Architecture + code quality
 - Clean code principles  
-- System design thinking  
-- DX tooling and automation  
+- System design thinking
 
 ---
 
